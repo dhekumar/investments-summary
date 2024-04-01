@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/invers-sum",
+    "public": "dist/invesr-sum",
     "ignore": [
       "firebase.json",
       "**/.*",
