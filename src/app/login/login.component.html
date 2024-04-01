@@ -1,0 +1,4 @@
+<div class="card flex justify-content-center">
+    <p-button *ngIf="!isLoggedIn"  label="Sign In" (click)="signIn()" ></p-button>
+    <p-button *ngIf="isLoggedIn" label="Sign Out" (click)="signOut()" ></p-button>
+</div>
